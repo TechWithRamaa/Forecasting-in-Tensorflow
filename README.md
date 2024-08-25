@@ -10,11 +10,11 @@ https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/h
 
 Included notebooks are
 
-https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Tokenization_Padding_in_Tensorflow.ipynb
+https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/TimeSeries_Forecast.ipynb
 
-Embarked on a journey into the world of Natural Language Processing (NLP) by learning how to tokenize words, transforming them into numbers that a machine can understand
-This foundational knowledge paved the way for understanding how machines can begin to comprehend human language
-Dataset - https://www.kaggle.com/c/learn-ai-bbc/data
+This program generates a synthetic time series with trend, seasonality, and noise, and then explores different forecasting techniques (naive forecast, moving average, differencing)
+to predict future values, evaluating the performance using error metrics (MSE and MAE)
+
 https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/BBC_News_Articles_Neural_Network_Classifier.ipynb
 
 Explored Embeddings
