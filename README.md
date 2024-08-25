@@ -10,8 +10,8 @@ https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/h
 Included notebooks are
 
 1) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/TimeSeries_Forecast.ipynb
-This program generates a synthetic time series with trend, seasonality, and noise, and then explores different forecasting techniques (naive forecast, moving average, differencing)
-to predict future values, evaluating the performance using error metrics (MSE and MAE)
+    * This program generates a synthetic time series with trend, seasonality, and noise, and then explores different forecasting techniques (naive forecast, moving average, differencing)
+      to predict future values, evaluating the performance using error metrics (MSE and MAE)
 
 https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/BBC_News_Articles_Neural_Network_Classifier.ipynb
 
