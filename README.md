@@ -13,7 +13,7 @@ Included notebooks are
     * This program generates a synthetic time series with trend, seasonality, and noise, and then explores different forecasting techniques (naive forecast, moving average, differencing)
       to predict future values, evaluating the performance using error metrics (MSE and MAE)
 
-https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/BBC_News_Articles_Neural_Network_Classifier.ipynb
+2) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/TimeSeries_Forecast_With_DNN.ipynb
 
 Explored Embeddings
 These powerful tools map our vocabulary into higher-dimensional space, allowing the machine to grasp the subtleties of word meanings
