@@ -14,7 +14,6 @@ Included notebooks are
       to predict future values, evaluating the performance using error metrics (MSE and MAE)
 
 2) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/TimeSeries_Forecast_With_DNN.ipynb
-
    * This program demonstrates the process of generating, training, and forecasting a time series using a neural network built with TensorFlow.
    * Includes the following key steps like Synthetic Time Series with a linear trend, seasonality, and noise components
    * Demonstrates the best practices for handling & organizing variables and hyperparameters by storing within a Dataclass
@@ -22,12 +21,13 @@ Included notebooks are
      training, Forecasting, evaluation metrics like MAE & MSE & visualization
 
 3) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/Forecasting_With_LSTMs.ipynb
+   * This program demonstrates time series forecasting using TensorFlow with LSTM layers
+   * It generates synthetic time series data, prepares it with windowing and batching, and then trains a sequential model with two LSTM layers
+   * The model is optimized using the Huber loss and SGD optimizer
+   * After training, the program forecasts future values and evaluates the results against the validation set
+   * This approach improves the forecasting accuracy while leveraging the strengths of LSTMs for sequential data modeling
 
-Explored various model formats that help capture context (forward & backward), allowing for a more nuanced understanding of sentiment in text
-Learnt best practices for defining Hyper parameters
-Adjusting hyper parameters & analyzing accuracy of neural network models with different Keras Layers like Conv1D, Dropout, GlobalMaxPooling1D, MaxPooling1D, LSTM and Bidirectional(LSTM)
-Started experimenting with text prediction, laying the groundwork for creating entirely new sequences of words resulting in Poetry
-Dataset - https://www.kaggle.com/c/learn-ai-bbc/data classifying articles into 5 categories ['tech', 'business', 'sport', 'sport', 'entertainment']
+
 https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Creating_Poetry_With_Bidirectional_LSTMs.ipynb
 
 Developed a creative tool by building a poetry generator
