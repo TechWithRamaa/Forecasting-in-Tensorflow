@@ -19,7 +19,9 @@ Included notebooks are
    * Includes the following key steps like Synthetic Time Series with a linear trend, seasonality, and noise components
    * Demonstrates the best practices for handling & organizing variables and hyperparameters by storing within a Dataclass
    * Demonstrates other key steps including Data preparation, splitting, defining architecture of DNN,
-     training, Forecasting, evaluation metrics like MAE & MSE & visualization 
+     training, Forecasting, evaluation metrics like MAE & MSE & visualization
+
+3) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/Forecasting_With_LSTMs.ipynb
 
 Explored various model formats that help capture context (forward & backward), allowing for a more nuanced understanding of sentiment in text
 Learnt best practices for defining Hyper parameters
