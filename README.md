@@ -27,6 +27,13 @@ Included notebooks are
    * After training, the program forecasts future values and evaluates the results against the validation set
    * This approach improves the forecasting accuracy while leveraging the strengths of LSTMs for sequential data modeling
 
+4) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/Sunspots_Forcasting_with_A_Sophistaced_NN.ipynb
+   * Predicting Sunspots with Neural Networks: This project explores various neural network architectures for time series forecasting, specifically for predicting sunspot activity
+   * It combines Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Deep Neural Networks (DNNs) to build a hybrid model
+   * The architecture involves data passing through a convolutional layer, followed by stacked LSTMs, and finally stacked dense layers
+   * The goal is to evaluate if this combined approach improves forecasting accuracy compared to simpler models
+     
+6) 
 
 https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Creating_Poetry_With_Bidirectional_LSTMs.ipynb
 
