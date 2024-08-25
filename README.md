@@ -30,16 +30,14 @@ Included notebooks are
 4) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/Sunspots_Forcasting_with_A_Sophistaced_NN.ipynb
    * Building models for real world data. In particular, we will train on the Sunspots dataset: a monthly record of sunspot numbers from January 1749 to July 2018
    * This project explores various neural network architectures for time series forecasting, specifically for predicting sunspot activity
-   * It combines Convolutional Neural Networks (CNNs), Recurrent Neural Networks (RNNs), and Deep Neural Networks (DNNs) to build a hybrid model
    * The architecture involves data passing through a convolutional layer, followed by stacked LSTMs, and finally stacked dense layers
    * The goal is to evaluate if this combined approach improves forecasting accuracy compared to simpler models
    * Dataset - https://www.kaggle.com/datasets/robervalt/sunspots
-6) 
 
-https://github.com/TechWithRamaa/NLP-in-Tensorflow/blob/main/Creating_Poetry_With_Bidirectional_LSTMs.ipynb
-
-Developed a creative tool by building a poetry generator
-Drawing inspiration from traditional Irish songs and Shakespearean poetry, trained our model to generate beautiful verses
-Tokenizing, Generating n_grams, Padding, defined model with Embedding layer & Bidirectional LSTM, Generated verses with 100 words by inputting seed texts
-Dataset - https://www.opensourceshakespeare.org/views/sonnets/sonnet_view.php?range=viewrange&sonnetrange1=1&sonnetrange2=154
+5) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/Forecasting_Daily_Minimum_Temperatures_Melbourne.ipynb
+   * We will be using the Daily Minimum Temperatures in Melbourne dataset which contains data of the daily minimum temperatures recorded in Melbourne from 1981 to 1990
+   * This project explores various neural network architectures for time series forecasting & experimenting various optimizers & loss functions to improve the performance of the model
+   * The architecture involves data passing through a convolutional layer, followed by stacked LSTMs, and finally stacked dense layers
+   * The goal is to evaluate if this combined approach improves forecasting accuracy compared to simpler models
+   * Dataset - https://github.com/jbrownlee/Datasets/blob/master/daily-min-temperatures.csv
 
