@@ -15,10 +15,10 @@ Included notebooks are
 
 2) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/TimeSeries_Forecast_With_DNN.ipynb
 
-   * This program demonstrates the process of generating, training, and forecasting a time series using a neural network built with TensorFlow
-     This program includes the following key steps like Synthetic Time Series with a linear trend, seasonality, and noise components
-     This program demonstrates the best practices for handling & organizing variables and hyperparameters by storing within a Dataclass
-     This program also demonstrates other key steps including Data preparation, splitting, defining architecture of DNN,
+   * This program demonstrates the process of generating, training, and forecasting a time series using a neural network built with TensorFlow.
+   * Includes the following key steps like Synthetic Time Series with a linear trend, seasonality, and noise components
+   * Demonstrates the best practices for handling & organizing variables and hyperparameters by storing within a Dataclass
+   * Demonstrates other key steps including Data preparation, splitting, defining architecture of DNN,
      training, Forecasting, evaluation metrics like MAE & MSE & visualization 
 
 Explored various model formats that help capture context (forward & backward), allowing for a more nuanced understanding of sentiment in text
