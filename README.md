@@ -5,6 +5,7 @@ Building forecasting systems using TensorFlow starting from generating synthetic
 Skills -> Natural Language Processing & Generating, Tokenizing, Generating n_grams, Padding, Embeddings, Bidirectional LSTM, Hyper-Parameters, Tensorflow, Keras, Python
 
 These notebooks are submitted as part of assignments while completing a course in Coursera
+
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/info
 
 Included notebooks are
