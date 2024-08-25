@@ -5,13 +5,11 @@ Building forecasting systems using TensorFlow starting from generating synthetic
 Skills -> Natural Language Processing & Generating, Tokenizing, Generating n_grams, Padding, Embeddings, Bidirectional LSTM, Hyper-Parameters, Tensorflow, Keras, Python
 
 These notebooks are submitted as part of assignments while completing a course in Coursera
-
 https://www.coursera.org/learn/tensorflow-sequences-time-series-and-prediction/home/info
 
 Included notebooks are
 
-https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/TimeSeries_Forecast.ipynb
-
+1) https://github.com/TechWithRamaa/Forecasting-in-Tensorflow/blob/main/TimeSeries_Forecast.ipynb
 This program generates a synthetic time series with trend, seasonality, and noise, and then explores different forecasting techniques (naive forecast, moving average, differencing)
 to predict future values, evaluating the performance using error metrics (MSE and MAE)
 
